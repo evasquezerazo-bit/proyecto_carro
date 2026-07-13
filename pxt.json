@@ -1,0 +1,19 @@
+{
+    "name": "proyecto_carro_receptor",
+    "description": "Codigo del receptor y control de motores para HolaSmart HS1002",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "targetVersions": {
+        "target": "6.0.0"
+    },
+    "supportedTargets": [
+        "microbit"
+    ]
+}
