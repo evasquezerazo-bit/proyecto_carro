@@ -1,6 +1,6 @@
 {
-    "name": "proyecto_carro_receptor",
-    "description": "Codigo del receptor y control de motores para HolaSmart HS1002",
+    "name": "proyecto_carro_transmisor",
+    "description": "Codigo del transmisor Joystick:bit",
     "dependencies": {
         "core": "*",
         "radio": "*",

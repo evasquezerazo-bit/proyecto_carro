@@ -1,3 +1,3 @@
-# Proyecto Carro HolaSmart HS1002 (Receptor)
+# Proyecto Joystick:bit (Transmisor)
 
-Este proyecto contiene el código para controlar el carro robot HolaSmart HS1002 utilizando sensores de línea y luces LED indicadoras de respuesta correcta/incorrecta.
+Este proyecto contiene el código para transmitir señales de respuesta correcta e incorrecta al carro robótico HolaSmart HS1002 utilizando un Joystick:bit.
